@@ -8995,3 +8995,7 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+.h22 {
+  color: white;
+  margin-bottom: 1.5rem !important;
+}
